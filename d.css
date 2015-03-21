@@ -20,8 +20,8 @@ h4 { font-family: "Arial"; font-size: 30px; color: #3399CC; }
   font-size: 14px;
   padding: 28px;
   margin-top: 28px;
-  margin-left: -270px;
-  margin-right: -290px;
+  margin-left: -8px;
+  margin-right: -8px;
 }
 #menulink { color: #686868; text-decoration: none; }
 #menulink:hover { color: #3399CC; text-decoration: underline; }
@@ -111,11 +111,11 @@ hr {
   float: center;
   background-color: #3399CC;;
   color: #FFFFFF;
-  font-size: 16px;
+  font-size: 17px;
   padding: 28px;
   margin-top: 14px;
   margin-left: -270px;
-  margin-right: -290px;
+  margin-right: -268px;
 }
 
 #bottom {
