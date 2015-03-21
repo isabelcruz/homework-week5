@@ -6,7 +6,10 @@ h2 { font-family: "Arial"; font-size: 40px; text-align: left; color: #404040; }
 h3 { font-family: "Arial"; font-size: 35px; text-align: left; color: #404040; margin-bottom: -5px; }
 h4 { font-family: "Arial"; font-size: 30px; color: #3399CC; }
 
-#groupbuddies { margin-left: 265px; margin-right: 535px; margin-top: 15px; }
+#top { margin-top: 20px; margin-left: 265px; margin-right: 270px; }
+#groupbuddies { float: left; }
+#heart { float: right; }
+
 #menus {
   font-family: "Arial";
   font-weight: bold;
@@ -16,7 +19,7 @@ h4 { font-family: "Arial"; font-size: 30px; color: #3399CC; }
   color: #686868;
   font-size: 14px;
   padding: 28px;
-  margin-top: 14px;
+  margin-top: 28px;
   margin-left: -270px;
   margin-right: -290px;
 }
