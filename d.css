@@ -47,6 +47,7 @@ smallnote{ font-size: 15px; color: #A0A0A0; font-style: italic; font-family: "Ge
 #article { float: center; margin-left: 130px; margin-right: 130px; }
 
 #touch { text-align: center; }
+#touchref { color: #3399CC; }
 
 #notelink{ color: #A0A0A0; }
 
@@ -75,7 +76,6 @@ smallnote{ font-size: 15px; color: #A0A0A0; font-style: italic; font-family: "Ge
 #twitrefnick:hover { text-decoration: underline; }
 #twitrefdate { color: #707070; text-decoration: none; }
 #twitrefdate:hover { color: #3399CC; text-decoration: underline; }
-#touchref { color: #3399CC; }
 twitp { font-size: 18px; }
 twituser1 {	font-weight: bold; font-size: 17px; color: #404040; }
 twituser2 {	font-size: 14px; color: #707070; }
